@@ -1,28 +1,32 @@
-# web-developer-junior
-Projeto para avaliação técnica da Vaga para Desenvolvedor Web Júnior
+# 🚀 Desafio Web Developer Jr — Site Blog
 
-## tecnologias
-- utilizando codeigniter 4
-- eloquent como ORM
-- bootstrap como template e jquery para comportamentos 
-- Banco de dados MySQL
-- e versionamento com Git
+Este projeto foi desenvolvido como parte de um desafio técnico para desenvolvedores web nível júnior. Criado com **CodeIgniter 4**, o sistema simula um blog funcional com operações completas de CRUD e um feed público de visualização.
 
-## atividade 1
-- crie um gerenciador de posts de um blog
-- o gerenciador deve possuir login
-- o post deve possui nome, foto, descrição em html
-- projeto deve ser monolítico ou seja, não separar em front e back
+---
 
-## atividade 2
-- agora crie o blog
-- deve possuir uma tela de listagem dos posts com campo de buscar
-- e outra tela de destalhes do post
+## 🧰 Funcionalidades
 
-## informações
-- o banco MySQL precisa ter seu diagrama, pode usar workbench pra isso
-- será avaliado a qualidade do código escrito
-- bem como sua capacidade de utilizar as tecnologias propostas.
-- faça um fork desse projeto
-- crie uma branch development e depois de terminar o desenvolvimento faça o merge com a main
-- depois envie o link do respositorio para vagastmatheaco@gmail.com
+- ✅ Listagem pública dos posts em formato de feed
+- ✏️ Cadastro, edição e exclusão de blogs
+- 🔒 Área administrativa protegida para controle de conteúdo
+- 📁 Organização em arquitetura MVC com CodeIgniter
+- ⚙️ Uso de Eloquent como ORM (via integração com Laravel components)
+- 💄 Interface responsiva com Bootstrap e interatividade com jQuery
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [CodeIgniter 4](https://codeigniter.com/) (Framework principal)
+- [Eloquent ORM](https://laravel.com/docs/eloquent) (para mapeamento objeto-relacional)
+- [Bootstrap](https://getbootstrap.com/) (Template front-end)
+- [jQuery](https://jquery.com/) (Comportamentos dinâmicos)
+- [MySQL](https://www.mysql.com/) (Banco de dados relacional)
+- [Git](https://git-scm.com/) & GitHub (Versionamento de código)
+
+---
+
+# 👨‍💻 Autor -  Samuel Leal - DesenvolvedorWeb Junior.
+
+- LinkedIn www.linkedin.com/in/samuel-leal-33763a372
+-  E-mail samuleal007@gmail.com

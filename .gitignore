@@ -1,0 +1,85 @@
+# ----------------------------------------
+# 🌎 Sistema Operacional (Mac, Windows, Linux)
+# ----------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+*~
+.directory
+.Trash-*
+
+# ----------------------------------------
+# 🔒 Arquivos de Ambiente e Configuração
+# ----------------------------------------
+.env
+.env.local
+.env.dev
+.vagrant
+Vagrantfile
+.php-version
+composer.lock
+
+# ----------------------------------------
+# 🗃 Diretórios de Projeto
+# ----------------------------------------
+/vendor/
+/builds/
+/tests/
+/coverage/
+/reports/
+/results/
+/_modules/
+/user_guide_src/build/
+/user_guide_src/cilexer/build/
+/user_guide_src/cilexer/dist/
+/user_guide_src/cilexer/pycilexer.egg-info/
+phpunit
+phpunit*.xml
+
+# ----------------------------------------
+# 🔧 Diretórios e Logs Gerados Automaticamente
+# ----------------------------------------
+*.log
+php_errors.log
+writable/cache/*
+!writable/cache/index.html
+writable/logs/*
+!writable/logs/index.html
+writable/session/*
+!writable/session/index.html
+writable/uploads/*
+!writable/uploads/index.html
+writable/debugbar/*
+!writable/debugbar/index.html
+
+# ----------------------------------------
+# 🧠 Ambientes de Desenvolvimento / IDEs
+# ----------------------------------------
+.idea/
+*.iml
+.vscode/*
+/nbproject/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+/.nb-gradle/
+/api/
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+.phpintel
